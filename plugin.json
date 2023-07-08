@@ -1,0 +1,10 @@
+{
+    "id": "hk2/hk2-botble-activator",
+    "name": "HK2 Botble Activator",
+    "namespace": "HK2\\BotbleActivator\\",
+    "provider": "HK2\\BotbleActivator\\Providers\\HK2ActivatorProvider",
+    "author": "mohamedhk2",
+    "url": "https://github.com/mohamedhk2/botble-activator",
+    "version": "0.0.1",
+    "description": "HK2 Botble CMS Activator"
+}
